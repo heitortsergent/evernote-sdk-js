@@ -36,7 +36,7 @@ You can start the express server with `npm start`.  Once the server starts, you 
 
 ```
 APP_URL=http://express.dev.azk.io
-PORT=3000
+PORT=80
 ```
 
 Go to your terminal and run:
